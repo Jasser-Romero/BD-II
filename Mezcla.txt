@@ -1,0 +1,4 @@
+Mezcla
+Tabla de hechos
+Merge, proceso de SQL (Investigar)
+Permite establecer una tabla de origen y una tabla destino
